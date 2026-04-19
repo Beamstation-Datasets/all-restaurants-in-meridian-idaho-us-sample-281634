@@ -1,6 +1,6 @@
 # All Restaurants in Meridian, Idaho, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 34 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `281634` |
 | Location | Meridian |
 | Category | Restaurants |
-| Full dataset size | 368 records |
-| Free sample size | 36 records (9.78%) |
-| Last export | 2026-04-09T10:04:22.359497+00:00 |
+| Full dataset size | 344 records |
+| Free sample size | 34 records (9.88%) |
+| Last export | 2026-04-16T09:58:43.693616+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-meridian-idaho-us-sample-281634/releases/download/sample-latest/beamstation_281634_restaurants-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
