@@ -1,12 +1,12 @@
 {
-  "export_job_id": "65cfb73c-45fd-4702-889d-8b2ac368311f",
+  "export_job_id": "90937c19-6b9c-4743-90cb-44a53cddd95f",
   "id_short": 281634,
-  "published_at": "2026-04-12T19:01:28Z",
+  "published_at": "2026-04-19T19:29:24Z",
   "repo_name": "all-restaurants-in-meridian-idaho-us-sample-281634",
   "sample_asset_name": "beamstation_281634_restaurants-us-id_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/281634/beamstation_281634_restaurants-us-id_SAMPLE_DIST.csv",
-  "sample_records": 36,
-  "sample_sha256": "e201e03e43bb839dd2e31efc8668eb13e34cfb4090d42ce710704ec69fb54f27",
-  "sample_size_bytes": 145211,
-  "total_records": 368
+  "sample_records": 34,
+  "sample_sha256": "6428c7d36c2bc09855a1868b3995190a6be9fa239d134b649199e51d5d75f3f6",
+  "sample_size_bytes": 131240,
+  "total_records": 344
 }
